@@ -65,7 +65,6 @@ dependencies {
 
     implementation project(":webapp:cas-server-webapp-config")
     implementation project(":webapp:cas-server-webapp-init")
-    implementation project(":webapp:cas-server-webapp-resources")
 
     implementation libraries.springcloudconfigclient
 
